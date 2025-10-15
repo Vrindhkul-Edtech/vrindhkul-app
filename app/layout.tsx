@@ -11,7 +11,7 @@ const bricolage = Bricolage_Grotesque({
 
 export const metadata: Metadata = {
   title: "Vrindhkul",
-  description: "Real-time AI Teaching Platform",
+  description: "Your personal AI tutor",
 };
 
 export default function RootLayout({
